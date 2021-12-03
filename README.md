@@ -23,7 +23,7 @@
 - Spring Module
 - JPA를 추상화한 Repository 인터페이스 제공
 
-# Restful Web Services - Best practicews
+# Restful Web Services - Best practices
 - Consumer first
 - Make best user of HTTP
 - Request methods
