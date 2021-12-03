@@ -22,3 +22,28 @@
 ## Spring Data JPA
 - Spring Module
 - JPA를 추상화한 Repository 인터페이스 제공
+
+# Restful Web Services - Best practicews
+- Consumer first
+- Make best user of HTTP
+- Request methods
+    - GET
+    - POST
+    - PUT
+    - DELETE
+- Response Status
+    - 200
+    - 404
+    - 400
+    - 201
+    - 401
+- No secure info in URI
+- Use plurals
+    - prefer /users to /user
+    - prefer /users/1 to /user/1
+- User nouns for resources
+- For exceptions
+    - define a consistent approach
+        - /search
+        - PUT /gists/{id}/star
+        - DELETE /gists/{id}/star
